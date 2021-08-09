@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @aaron-ang
 - 👀 I’m interested in Data Analytics and Software Development
 - 🌱 I’m currently learning C++ and Frontend Development
-<!--- 
-- 💞️ I’m looking to collaborate on]: <> (to be added)
---->
+[//]: # (- 💞️ I’m looking to collaborate on]: <> (to be added))
 - 📫 How to reach me 
   -  aaron.angyd@gmail.com
   -  aarona@bu.edu 

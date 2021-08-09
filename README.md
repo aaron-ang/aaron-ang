@@ -2,7 +2,9 @@
 - 👀 I’m interested in Data Analytics and Software Development
 - 🌱 I’m currently learning C++ and Frontend Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me aarona@bu.edu linkedin.com/aaron-ayd
+- 📫 How to reach me 
+  -  aarona@bu.edu 
+  -  linkedin.com/aaron-ayd
 
 <!---
 aaron-ang/aaron-ang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

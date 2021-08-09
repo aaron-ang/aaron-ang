@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
   -  aarona@bu.edu 
-  -  linkedin.com/aaron-ayd
+  -  linkedin.com/in/aaron-ayd
 
 <!---
 aaron-ang/aaron-ang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

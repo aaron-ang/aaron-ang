@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++ and Frontend Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
+  -  aaron.angyd@gmail.com
   -  aarona@bu.edu 
   -  linkedin.com/in/aaron-ayd
 

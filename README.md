@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aaron-ang
+- 👋 Hi, I’m Aaron
 - 👀 I’m interested in Data Analytics and Software Development
 - 🌱 I’m currently learning Frontend Development frameworks
 <!--- - 💞️ I’m looking to collaborate on]: --->

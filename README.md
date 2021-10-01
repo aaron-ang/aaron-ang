@@ -5,7 +5,7 @@
 - 📫 How to reach me 
   -  aaron.angyd@gmail.com
   -  aarona@bu.edu 
-  -  linkedin.com/in/aaron-ayd
+  -  https://linkedin.com/in/aaron-ayd
 
 <!---
 aaron-ang/aaron-ang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

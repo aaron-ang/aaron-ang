@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaron-ang
 - 👀 I’m interested in Data Analytics and Software Development
-- 🌱 I’m currently learning C++ and Frontend Development
+- 🌱 I’m currently learning Frontend Development frameworks
 <!--- - 💞️ I’m looking to collaborate on]: --->
 - 📫 How to reach me 
   -  aaron.angyd@gmail.com

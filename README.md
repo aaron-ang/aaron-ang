@@ -6,6 +6,7 @@
   -  aaron.angyd@gmail.com
   -  aarona@bu.edu 
   -  https://linkedin.com/in/aaron-ayd
+  -  https://aaron-ang.github.io/ (work in progress)
 
 <!---
 aaron-ang/aaron-ang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

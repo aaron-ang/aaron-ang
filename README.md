@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aaron
 - 👀 I’m interested in Data Analytics and Software Development
-- 🌱 I’m currently learning Android App and Frontend Development
+- 🌱 I’m currently learning Android and Frontend Development
 <!--- - 💞️ I’m looking to collaborate on]: --->
 - 📫 How to reach me 
   -  aaron.angyd@gmail.com

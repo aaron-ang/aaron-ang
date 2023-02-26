@@ -3,8 +3,7 @@
 - 🔬 I’m currently doing research in Database Systems 
 - 📫 How to reach me 
   -  aaron.angyd@gmail.com
-  -  aarona@bu.edu 
-  -  https://linkedin.com/in/aaron-ayd
+  -  aarona@bu.edu
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=aaron-ang&count_private=true&show_icons=true&theme=transparent"/>

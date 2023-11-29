@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aaron
 - 👀 I’m interested in Software Development 🚀 and Data Engineering 🛠
-- 🔬 I’m currently doing Database Systems research @ [DiSC Lab](https://github.com/BU-DiSC)
+- 🔬 I’m currently doing Database Systems research @ [DiSC Lab](https://disc.bu.edu/)
 - 📫 How to reach me
   -  aaron.angyd@gmail.com
   -  aarona@bu.edu

@@ -3,6 +3,7 @@
 - 🔬 I’m currently doing Database Systems research @ [DiSC Lab](https://disc.bu.edu/)
 - 📫 How to reach me
   -  aaron.angyd@gmail.com
+  -  aarona@ucsd.edu
   -  aarona@bu.edu
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aaron
 - 👀 I’m interested in Data 📊, Systems 🚀, and Networking 🌐
-- 🔬 I’m currently doing Database Systems research @ [DiSC Lab](https://disc.bu.edu/)
+- ⚙️ I’m looking to contribute to Rust open source projects
 - 📫 How to reach me
   -  aaron.angyd@gmail.com
   -  aarona@ucsd.edu

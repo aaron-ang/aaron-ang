@@ -10,7 +10,7 @@
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=aaron-ang&show_icons=true&hide_rank=true&theme=transparent"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-ang&size_weight=0.5&count_weight=0.5&layout=donut&theme=transparent&exclude_repo=kvm"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-ang&size_weight=0.5&count_weight=0.5&layout=donut&theme=transparent&exclude_repo=kvm&hide=jupyter%20notebook"/>
 </a>
 
 ![](https://hit.yhype.me/github/profile?user_id=67321817)

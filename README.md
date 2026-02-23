@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <a href="" >
-  <img height=200 align="center" src="https://github-readme-stats-aaron-ang.vercel.app/api?username=aaron-ang&show_icons=true&theme=transparent&hide_rank=true" />
+  <img height=200 align="center" src="https://github-stats-aaron-ang.vercel.app/api?username=aaron-ang&show_icons=true&theme=transparent&hide_rank=true" />
 </a>
 
 <!-- <a href="" >
-  <img height=195 align="center" src="https://github-readme-stats-aaron-ang.vercel.app/api/top-langs/?username=aaron-ang&size_weight=0.5&count_weight=0.5&theme=transparent&layout=donut&exclude_repo=kvm&hide=jupyter%20notebook,html" />
+  <img height=195 align="center" src="https://github-stats-aaron-ang.vercel.app/api/top-langs/?username=aaron-ang&size_weight=0.5&count_weight=0.5&theme=transparent&layout=donut" />
 </a> -->

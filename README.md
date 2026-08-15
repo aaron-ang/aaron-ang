@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="" >
-  <img height=200 align="center" src="https://github-readme-stats-aaron-ang.vercel.app/api?username=aaron-ang&show_icons=true&theme=transparent&hide_rank=true" />
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=aaron-ang&show_icons=true&theme=transparent&hide_rank=true" />
 </a>
 
 <a href="" >

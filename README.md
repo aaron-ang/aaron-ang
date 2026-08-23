@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 </a>
 
 <a href="" >
-  <img height=195 align="center" src="https://github-readme-stats-aaron-ang.vercel.app/api/top-langs/?username=aaron-ang&size_weight=0.5&count_weight=0.5&theme=transparent&layout=donut&exclude_repo=kvm&hide=Jupyter%20Notebook" />
+  <img height=195 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aaron-ang&size_weight=0.5&count_weight=0.5&theme=transparent&layout=donut&exclude_repo=kvm&hide=Jupyter%20Notebook" />
 </a>
